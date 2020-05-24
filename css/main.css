@@ -119,6 +119,9 @@ section {
     color: #364147;
 }
 
+
+/***************************************/
+
 .header-nav {
     border-bottom-width: 1px;
     border-bottom-color: #a0a0a0;
@@ -189,4 +192,15 @@ section {
 .profile-pic img {
     border-radius: 100px;
     max-width: 100%;
+}
+
+
+/***************************************/
+
+.hero {
+    background-image: url(/img/hero.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
 }
